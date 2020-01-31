@@ -1,0 +1,29 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "nodejs练习",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spring-Listening/restful-api.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "springz_zou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spring-Listening/restful-api/issues"
+  },
+  "homepage": "https://github.com/Spring-Listening/restful-api#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
